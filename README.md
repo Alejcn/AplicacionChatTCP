@@ -16,10 +16,10 @@ Requisitos de la práctica:
 
 ## Capturas de pantalla
 Al iniciar el cliente nos pedirá que ingresemos un nombre de usuario para conectarnos.
-<img src="assets/images/Screenshot_1.png">
+<img src="assets/images/Screenshot_1.jpg">
 
 Aplicación con el servidor y dos usuarios conectados.
-<img src="assets/images/Screenshot_2.png">
+<img src="assets/images/Screenshot_2.jpg">
 
 ## Autores
 - Alejandro Cea
